@@ -1,0 +1,57 @@
+/* import google fonts here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Roboto&family=Roboto+Condensed&family=Sacramento&family=Ubuntu&display=swap');
+
+
+
+:root{
+  --blue:aquamarine;
+  --white:white;
+}
+
+body{
+  font-family: 'Monsterrat', sans-serif;;
+}
+
+.navbar{
+  width: 100%;
+  position: fixed;
+}
+
+.logo{
+  width: 80px;
+  height:80px;
+  border-radius: 50%;
+}
+
+button{
+  margin-right: 50px;
+  background-color: var(--white);
+
+}
+
+.navbar-toggler-icon{
+  background-color: var(--white);
+}
+
+.navbar-nav{
+  margin-left: auto;
+  padding-right: 100px;
+}
+
+
+.navbar-nav > li > a {
+  color: var(--blue) !important;
+  font-size: 24px;
+  /* padding: 0px 230px; */
+  width: fit-content;
+}
+
+.navbar-nav .nav-item {
+  padding: 20px;
+}
+
+.navbar-nav > li > a:hover {
+  color: var(--white) !important;
+  
+  
+}
