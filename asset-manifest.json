@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sophia-Portfolio-React/static/css/main.414c2082.css",
+    "main.js": "/Sophia-Portfolio-React/static/js/main.ec478055.js",
+    "static/media/logo.png": "/Sophia-Portfolio-React/static/media/logo.9320a7309e7ba3501d11.png",
+    "static/media/SophiaLai.jpeg": "/Sophia-Portfolio-React/static/media/SophiaLai.4bffc0d70c6995e50fa7.jpeg",
+    "static/media/background.png": "/Sophia-Portfolio-React/static/media/background.6a2f5ed699db755d19a9.png",
+    "index.html": "/Sophia-Portfolio-React/index.html",
+    "main.414c2082.css.map": "/Sophia-Portfolio-React/static/css/main.414c2082.css.map",
+    "main.ec478055.js.map": "/Sophia-Portfolio-React/static/js/main.ec478055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414c2082.css",
+    "static/js/main.ec478055.js"
+  ]
+}
